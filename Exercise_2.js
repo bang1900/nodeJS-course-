@@ -1,3 +1,4 @@
+//benyamin geerts 48/6
 //Exercise 2
 // Question:
 // Write code that prints all prime numbers less than the number 237.
