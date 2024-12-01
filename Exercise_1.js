@@ -1,3 +1,4 @@
+//benyamin geerts 48/6
 //Exercise 1
 // Question:
 // Write a program that defines a number (e.g., const num = 123). The program checks and prints the following for the given number:
